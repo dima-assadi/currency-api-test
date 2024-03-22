@@ -346,7 +346,8 @@ In Step 4, we'll implement the step definitions in Java for the scenarios define
 - Implement methods for each step in your feature file within `USDRateValidationSteps.java`.
 - These methods should be annotated with `@Given`, `@When`, `@Then`, and `@And` from Cucumber to connect the Java code to the Gherkin steps.
 - Below picture depicts the project structure in IntellJ
-- ![image](https://github.com/dima-assadi/currency-api-test/assets/158562630/162cefe8-dd56-4b8a-9f00-4e5988761230)
+- ![image](https://github.com/dima-assadi/currency-api-test/assets/158562630/72a9b399-bebe-4a47-9ab6-fdd29c77a6d4)
+
 
 
 
@@ -478,10 +479,10 @@ After implementing the step definitions, run the TestRunner class to execute you
 
 ## Step 5: SERENITY REPORTS
 **Full Report**: "C:\Users\USER\IdeaProjects\currency-api-test\target\site\serenity\index.html"
-![image](https://github.com/dima-assadi/currency-api-test/assets/158562630/68929c3b-de81-4785-9b91-948e52ada071)
-![image](https://github.com/dima-assadi/currency-api-test/assets/158562630/92700b5f-3a30-45da-ab3e-fc102a6c6d02)
-![image](https://github.com/dima-assadi/currency-api-test/assets/158562630/2ebec6fd-f578-4fb7-92b9-191679de6bfa)
+![image](https://github.com/dima-assadi/currency-api-test/assets/158562630/c8b3a5ae-ddf8-4339-9b18-8df72fd0462d)
+![image](https://github.com/dima-assadi/currency-api-test/assets/158562630/0daf23f8-06dd-4e2e-b3ec-55dda81eddb0)
+![image](https://github.com/dima-assadi/currency-api-test/assets/158562630/7255f1a0-a24a-42a6-a20a-9160068e7076)
 
 
 **Single Page HTML Summary**: "C:\Users\USER\IdeaProjects\currency-api-test\target\site\serenity\serenity-summary.html"
-![image](https://github.com/dima-assadi/currency-api-test/assets/158562630/eb15111f-716c-4677-813e-ff6c8fce4af0)
+![image](https://github.com/dima-assadi/currency-api-test/assets/158562630/0d41bc3b-7387-4f44-9b7e-a1a97ba1979e)
